@@ -7,19 +7,46 @@ To submit literature, or be added to the repository, please contact me via [emai
 Current Topics
 ---
 
-- Dark Matter
+## Dark Matter
 
-![dm](img/dm.jpeg)
+<img src="img/dm.jpeg" width="300" />
 
-- Gravitational Waves
+- Direct/Indirect Detection
+- Model Building
+- Astroparticle Physics
+- Collider searches
+- Cosmological Implications
+- Numerical Simulations
 
-![gw](img/gw.jpeg)
+## Gravitational Waves
 
-- Collider Physics
+<img src="img/gw.jpeg" width="300" />
 
-![lhc](img/lhc.jpeg)
-
+- Numerical Simulation
 - Cosmology
+- LIGO/LISA Detectors
+- Sources
+- Electromagnetic Couterparts
+- Modified Gravity
 
-![cosmo](img/cosmo.jpg)
+## Collider Physics
+
+<img src="img/lhc.jpeg" width="300" />
+
+- Standard Model Precision Physics
+- Supersymmetry
+- Dark Matter
+- Long-lived Particles Theory and Detectors (e.g. Faser)
+- ATLAS/CMS
+
+## Cosmology
+
+<img src="img/cosmo.jpg" width="300" />
+
+- Big Bang Nucleosynthesis
+- Cosmic Microwave Background
+- 21cm Physics
+- Inflation
+- Gravitational Waves
+- Experiments
 
