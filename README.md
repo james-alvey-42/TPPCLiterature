@@ -4,6 +4,8 @@ Literature repository for TPPC PhD students. Updated after weekly meetings on Th
 
 To submit literature, or be added to the repository, please contact me via [email](mailto:james.alvey@kcl.ac.uk).
 
+Requests for literature suggestions can be made by submitting an issue with the supplied template.
+
 Current Topics
 ---
 
