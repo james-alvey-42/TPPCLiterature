@@ -8,9 +8,18 @@ Current Topics
 ---
 
 - Dark Matter
+
+![dm](img/dm.jpeg)
+
 - Gravitational Waves
+
+![gw](img/gw.jpeg)
+
 - Collider Physics
+
+![lhc](img/lhc.jpeg)
+
 - Cosmology
-- Numerical Relativity
-- ...
+
+![cosmo](img/cosmo.jpg)
 
