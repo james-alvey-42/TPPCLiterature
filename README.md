@@ -54,7 +54,7 @@ Current Topics
 
 ## Machine Learning
 
-<img src="img/ml.jpeg" width="300" />
+<img src="img/ml.jpg" width="300" />
 
 - Deep Learning
 - Architectures
