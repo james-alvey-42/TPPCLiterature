@@ -52,3 +52,13 @@ Current Topics
 - Gravitational Waves
 - Experiments
 
+## Machine Learning
+
+<img src="img/ml.jpeg" width="300" />
+
+- Deep Learning
+- Architectures
+- Jet Physics
+- Cosmology
+- Adversarial Networks
+
